@@ -1,0 +1,8 @@
+name: UwuChat
+version: '${project.version}'
+main: ru.deelter.uwuchat.UwuChat
+api-version: 1.17
+prefix: UwuChat
+authors: [ DeelTer, Foxodev ]
+description: Make your players a little UWU
+website: https://vk.com/DeelTer
